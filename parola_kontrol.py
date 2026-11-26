@@ -58,7 +58,7 @@ import string
 
 sifre = input("şifrenizi giriniz:")
 
-if len(sifre) <=12 :
+if len(sifre) >=12 :
     print("yetersiz karakter")
 
 sayac=0
