@@ -5,3 +5,4 @@
 # print("Benim Adım {ad} , yaşım {yas}".format (ad="Emir",yas=21))
 
 
+
